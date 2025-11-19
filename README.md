@@ -26,7 +26,7 @@ Projeyi bilgisayarınızda çalıştırmak için:
 1.  **Python Yüklü Olduğundan Emin Olun:** Bilgisayarınızda Python 3.x sürümü kurulu olmalıdır.
 2.  **Projeyi İndirin:**
     ```bash
-    git clone [https://github.com/abdullahserefoglu0-c/Tic-Tac-Toe-Oyunu.git](https://github.com/abdullahserefoglu0-c/Tic-Tac-Toe-Oyunu.git)
+    git clone https://github.com/abdullahserefoglu0-c/Tic-Tac-Toe-Oyunu.git
     ```
 3.  **Dizine Girin ve Çalıştırın:**
     ```bash
